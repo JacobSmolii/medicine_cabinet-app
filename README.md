@@ -153,7 +153,7 @@ To access this endpoint, you must be logged in.
 Here user can see what ailments they treated
 
 
-After succes request you will see the treated way of cannabis types user has been added
+After succes request you will see the treated way of cannabis types user has been added.
 
 
 
